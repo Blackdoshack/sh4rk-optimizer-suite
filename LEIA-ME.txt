@@ -1,0 +1,40 @@
+===========================================================
+             SH4RK BYTE - GUIA DE UTILIZACAO
+===========================================================
+
+Obrigado por utilizar o SH4rk OPTIMIZER. Este script
+foi desenvolvido para extrair a performance maxima do seu 
+hardware, focando em redução de lag e limpeza profunda.
+
+--- 1. COMO EXECUTAR (MUITO IMPORTANTE) ---
+
+Para que o programa funcione 100%, ele precisa de permissão
+para mexer no sistema.
+1. Clique com o BOTAO DIREITO no arquivo "otimizaçao_sh4rk.bat".
+2. Escolha a opção "EXECUTAR COMO ADMINISTRADOR".
+
+--- 2. O QUE ELE FAZ NO SEU PC ---
+
+* LIMPEZA: Remove lixo das pastas Temp, %Temp% e Prefetch.
+* DISCO: Esvazia a lixeira e limpa restos de atualizações.
+* PERFORMANCE: Ajusta o processador para focar apenas no jogo.
+* LATÊNCIA: Reseta o DNS para evitar quedas de conexão.
+* LEVEZA: Desativa serviços que ficam "espiando" o Windows (Telemetria).
+
+--- 3. DICAS DO SH4RK ---
+
+* PONTO DE RESTAURAÇÃO: É sempre bom criar um ponto de 
+  restauração no Windows antes de rodar qualquer otimizador.
+* REINICIALIZAÇÃO: Após o script terminar, reinicie o seu
+  computador para que todas as mudanças entrem em vigor.
+* FREQUÊNCIA: Recomendo usar este script uma vez por semana
+  para manter o Windows sempre "limpo".
+
+--- 4. SUPORTE ---
+
+Se você tiver dúvidas ou quiser ver mais dicas de otimização,
+acesse o canal SH4rk BYTE no YouTube.
+
+-----------------------------------------------------------
+(c) 2026 SH4rk BYTE - Otimização de Respeito.
+===========================================================
